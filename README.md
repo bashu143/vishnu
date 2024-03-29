@@ -19,6 +19,7 @@ npm install
 
 # 启动vue项目 127.0.0.1:8080
 npm run dev
+ismailbashu
 
 # 启动expres服务器 127.0.0.1:3000
 cd server
